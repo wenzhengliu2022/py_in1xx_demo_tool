@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/humidity_64x64.png</file>
+    <file>images/temperature_64x64.png</file>
+  </qresource>
+</RCC>
